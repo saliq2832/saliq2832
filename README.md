@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , i am Saliq kotta.
 
 <!--
 **saliq2832/saliq2832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i will always find bugs in my code. that's why i'm better than you :)
+### I will always find bugs in my code. that's why i'm better than you :)

@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Nice to meet you here :)
+
+### 📫
+
+<h3 align="center"> Contact Me </h3>
+<p align="center">
+<a href="https://discordapp.com/users/757570815012110386" target="blank">
+	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
+</a>&ensp;

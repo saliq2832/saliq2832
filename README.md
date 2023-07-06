@@ -1,4 +1,5 @@
 ### Hi there , i am Saliq kotta.
+### Now working as Associate Developer at Geodis india Pvt Ltd.
 
 <!--
 **saliq2832/saliq2832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
